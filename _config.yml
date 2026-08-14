@@ -1,0 +1,9 @@
+title: MAS@B
+description: Multi-Agent Systems Research Group @ University of Birmingham
+theme: jekyll-theme-minimal # Options: jekyll-theme-minimal, minima
+
+# Sidebar / Header links
+header_pages:
+  - index.md
+  - members.md
+  - topics.md
