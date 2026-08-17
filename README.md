@@ -14,9 +14,9 @@ mas-birmingham.github.io/
 ├── Gemfile            # Local Ruby dependencies matching GitHub Pages
 ├── index.md           # Homepage (/)
 ├── members.md         # Member profiles & research interests (/members)
-├── topics.md          # Reading group topics & schedule (/topics)
+├── schedule.md        # Reading group schedule (/schedule)
+├── funding.md         # Funding and joint proposal opportunities
 └── README.md          # Repository documentation & local setup guide
-
 ```
 
 ### File Breakdown
@@ -58,8 +58,8 @@ Group members are encouraged to keep their profiles and seminar schedules up to 
 ### Your Name
 * **Role:** PhD Researcher / Faculty / Postdoc
 * **Focus Areas:** Cooperative MARL, Swarm Robotics, Game Theory
-* **Contact:** `username@bham.ac.uk` | [Website](https://your-website.com)
-
+* **Contact:** `username@bham.ac.uk`
+* [Website](https://your-website.com)
 ```
 
 
