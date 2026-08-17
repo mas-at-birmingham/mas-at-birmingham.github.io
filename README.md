@@ -19,33 +19,6 @@ mas-birmingham.github.io/
 └── README.md          # Repository documentation & local setup guide
 ```
 
-### File Breakdown
-
-* **`_config.yml`**
-* **Purpose:** The global configuration file for Jekyll.
-* **What it controls:** Sets the site title, sub-description, GitHub Pages theme (e.g., `jekyll-theme-minimal` or `minima`), and the links displayed in the top header navigation (`header_pages`).
-
-
-* **`Gemfile`**
-* **Purpose:** Declares the software dependencies needed to build the site.
-* **What it controls:** Locks the local build environment to the `github-pages` gem, ensuring your local preview looks identical to the live deployed site.
-
-
-* **`index.md` (Homepage)**
-* **Purpose:** Main landing page for MAS@B.
-* **What to put here:** A high-level introduction to the research group, routine meeting times/locations, key links, and general group announcements.
-
-
-* **`members.md` (Member Profiles)**
-* **Purpose:** Public directory of group members and collaborators.
-* **What to put here:** Member names, roles (Faculty, Postdoc, PhD, Student), research focus areas, contact emails, and personal site/GitHub links.
-
-
-* **`topics.md` (Discussion & Schedule)**
-* **Purpose:** Living agenda for reading group sessions and seminars.
-* **What to put here:** A schedule table listing upcoming meeting dates, paper titles/topics, session leads, and locations, followed by a list of core research themes.
-
-
 ## 🤝 How to Contribute
 
 Group members are encouraged to keep their profiles and seminar schedules up to date.
