@@ -24,4 +24,4 @@ Multi-Agent Systems (MAS) is fundamentally cross-cutting. We bring together rese
 * 👤 [Meet our Members](/members)
 * 📅 [Meeting & Seminar Schedule](/schedule)
 * 💡 [Funding Calls & Joint Proposals](/funding)
-* 🐙 [MAS@B GitHub](https://github.com/mas-birmingham)
+* 🐙 [MAS@B GitHub](https://github.com/mas-at-birmingham)
