@@ -16,5 +16,11 @@ nav_order: 1
 * **Contact:** `axa1943@student.bham.ac.uk`
 * [Website](https://www.ajuanijustus.com), [Google Scholar](https://scholar.google.com/citations?user=ktCUwwsAAAAJ&hl=en)
 
+### Asim Abbas
+* **Role:** PhD Researcher
+* **Focus Areas:** Agentic AI, NLP, Trustworthy AI, Biomedical Informatics, Data Annotation, Information Extraction
+* **Contact:** `axa2233@student.bham.ac.uk`, `asimabbasturi@gmail.com`
+* [Website](https://www.linkedin.com/in/asim-abbas-b2891ab8/), [Google Scholar](https://scholar.google.com/citations?user=gNtO-mYAAAAJ&hl=en)
+
 
 > Want to join MAS@B? Send a pull request adding your details to this page or drop an email to `axa1943@student.bham.ac.uk`!
