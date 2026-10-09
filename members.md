@@ -14,7 +14,7 @@ nav_order: 1
 * **Role:** PhD Researcher
 * **Focus Areas:** Multi-Agent Reinforcement Learning, Human-Agent Teaming
 * **Contact:** `axa1943@student.bham.ac.uk`
-* [Website](https://www.ajuanijustus.com), [Google Scholar](https://scholar.google.com/citations?user=ktCUwwsAAAAJ&hl=en)
+* [Website](https://www.ajuanijustus.com), [Google Scholar](https://scholar.google.com/citations?user=ktCUwwsAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/ajuanijustus/)
 
 ### Asim Abbas
 * **Role:** PhD Researcher
@@ -23,4 +23,4 @@ nav_order: 1
 * [Website](https://www.linkedin.com/in/asim-abbas-b2891ab8/), [Google Scholar](https://scholar.google.com/citations?user=gNtO-mYAAAAJ&hl=en)
 
 
-> Want to join MAS@B? Send a pull request adding your details to this page or drop an email to `axa1943@student.bham.ac.uk`!
+> Want to join MAS@B? Submit [a pull request](https://github.com/mas-at-birmingham/mas-at-birmingham.github.io/tree/main#-how-to-contribute) adding your details to this page or drop an email to `axa1943@student.bham.ac.uk`!
