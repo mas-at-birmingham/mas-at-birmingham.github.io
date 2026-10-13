@@ -22,5 +22,10 @@ nav_order: 1
 * **Contact:** `axa2233@student.bham.ac.uk`, `asimabbasturi@gmail.com`
 * [Website](https://www.linkedin.com/in/asim-abbas-b2891ab8/), [Google Scholar](https://scholar.google.com/citations?user=gNtO-mYAAAAJ&hl=en)
 
+### Sean Groom
+* **Role:** PhD Researcher & Data Scientist, Nottingham Forest FC
+* **Focus Areas:** Graph Reinforcement Learning, Graph Neural Networks, Multi-Agent RL for Team Sports, Tactical Optimisation in Football, Player Performance Evaluation
+* **Contact:** `sean.groom@nottinghamforest.co.uk`
+* [Google Scholar](https://scholar.google.com/citations?user=Faels4sAAAAJ&hl=en)
 
 > Want to join MAS@B? Submit [a pull request](https://github.com/mas-at-birmingham/mas-at-birmingham.github.io/tree/main#-how-to-contribute) adding your details to this page or drop an email to `axa1943@student.bham.ac.uk`!
