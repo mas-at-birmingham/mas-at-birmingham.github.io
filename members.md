@@ -28,4 +28,16 @@ nav_order: 1
 * **Contact:** `sean.groom@nottinghamforest.co.uk`
 * [Google Scholar](https://scholar.google.com/citations?user=Faels4sAAAAJ&hl=en)
 
+### Ziyue Chu
+* **Role:** PhD Researcher / Senior Research Engineer
+* **Focus Areas:** Multi-agent Learning Theory, Cooperative Game Theory, Application in Smart City Intelligent Decision (RoboTaxi)
+* **Contact:** `zxc332@student.bham.ac.uk`
+* [Website](https://zero-cooper.github.io/)
+
+### Dr. Leonardo Stella
+* **Role:** Associate Professor
+* **Focus Areas:** game theory, systems and control, multi-agent learning, optimisation
+* **Contact:** `l.stella@bham.ac.uk`
+* [Website](https://www.leonardostella.com/)
+
 > Want to join MAS@B? Submit [a pull request](https://github.com/mas-at-birmingham/mas-at-birmingham.github.io/tree/main#-how-to-contribute) adding your details to this page or drop an email to `axa1943@student.bham.ac.uk`!
