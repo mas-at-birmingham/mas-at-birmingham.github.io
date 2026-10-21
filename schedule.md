@@ -6,10 +6,10 @@ nav_order: 2
 
 ## Upcoming Meetings and Seminars
 
-| Date | Topic / Paper | Presenter / Lead | Location |
-| :--- | :--- | :--- | :--- |
-| **Oct 15** | lorem ipsum | somebody | Room LG23 / Teams |
-| **Oct 29** | ipsum lorem | somebody else | Room LG23 / Teams |
+| Date | Time | Topic / Paper | Presenter / Lead | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **Nov 5 2027** | 11:00am GMT | PhD/PostDoc Talks (10-15 mins each) | TBD | Room LG23 / Teams |
+| **Nov 19 2027** | 11:00am GMT | PhD/PostDoc Talks (10-15 mins each) | TBD | Room LG23 / Teams |
 
 ## 1-Day Internal Workshop
 Each year, MAS@B hosts a one-day internal workshop bringing together labs across Birmingham to present ongoing work, foster cross-group projects, and plan joint proposals.
