@@ -40,4 +40,11 @@ nav_order: 1
 * **Contact:** `l.stella@bham.ac.uk`
 * [Website](https://www.leonardostella.com/)
 
+### Dr. Abhirup Ghosh
+* **Role:** Assistant Professor
+* **Focus Areas:** Machine Learning, Federated Learning, Test Time Adaptation, Multi-agent Systems
+* **Contact:** `a.ghosh.1@bham.ac.uk`
+* [Website](https://abhirupju.github.io)
+
+
 > Want to join MAS@B? Submit [a pull request](https://github.com/mas-at-birmingham/mas-at-birmingham.github.io/tree/main#-how-to-contribute) adding your details to this page or drop an email to `axa1943@student.bham.ac.uk`!
