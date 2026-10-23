@@ -9,8 +9,8 @@ MAS@B serves as a platform for developing collaborative grant applications and i
 
 | Funder / Scheme | Focus Area | Deadline | Contact / Lead |
 | :--- | :--- | :--- | :--- |
-| **EPSRC** | AI & Autonomous Systems | Rolling | Russell / Leo |
-| **UKRI / Horizon** | Collaborative Robotics & AI | TBD | — |
+| **EPSRC** | AI & Autonomous Systems | Rolling | placeholder |
+| **UKRI / Horizon** | Collaborative Robotics & AI | TBD | placeholder |
 
 > Interested in forming a joint bid or adding a funding opportunity? Bring it up at the next meeting or submit a Pull Request to this page.
 
