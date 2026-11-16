@@ -50,32 +50,27 @@ Want to join? Fill in the [MAS@B sign-up form](https://forms.cloud.microsoft/e/w
 
 ## Faculty
 
-### Prof. Chris Baber
-* **Role:** Professor
+### Chris Baber
 * **Focus Areas:** Human-Machine Teaming, Human Factors, Wearable Computing, Speech Technology
 * **Contact:** `c.baber@bham.ac.uk`
 * [Google Scholar](https://scholar.google.co.uk/citations?user=MQ184fQAAAAJ&hl=en)
 
-### Dr. Abhirup Ghosh
-* **Role:** Assistant Professor
+### Abhirup Ghosh
 * **Focus Areas:** Machine Learning, Federated Learning, Test-Time Adaptation, Multi-Agent Systems
 * **Contact:** `a.ghosh.1@bham.ac.uk`
 * [Website](https://abhirupju.github.io)
 
 ### Iran Mansouri
-* **Role:** Faculty
 * **Focus Areas:** Multi-Robot Systems, Human-Robot Interaction
 * **Contact:** `m.mansouri@bham.ac.uk`
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=rMrflgwAAAAJ)
 
 ### Sadegh Soudjani
-* **Role:** Faculty
 * **Focus Areas:** Verification, Safe Autonomy & AI, Cyber-Physical Systems
 * **Contact:** `s.soudjani@bham.ac.uk`
 * [Website](https://hycodev.com/ssoudjani)
 
-### Dr. Leonardo Stella
-* **Role:** Associate Professor
+### Leonardo Stella
 * **Focus Areas:** Game Theory, Systems and Control, Multi-Agent Learning, Optimisation
 * **Contact:** `l.stella@bham.ac.uk`
 * [Website](https://www.leonardostella.com/)
