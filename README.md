@@ -1,6 +1,6 @@
 # Multi-Agent Systems @ Birmingham (MAS@B)
 
-This repository hosts the official website for **Multi-Agent Systems @ Birmingham (MAS@B)**, served via GitHub Pages at [`https://mas-birmingham.github.io`](https://mas-birmingham.github.io).
+This repository hosts the official website for **Multi-Agent Systems @ Birmingham (MAS@B)**, served via GitHub Pages at [`https://mas-at-birmingham.github.io`](https://mas-at-birmingham.github.io).
 
 The site is built with pure Markdown and Jekyll to keep it clean, fast, text-focused, and easy for any group member to update via standard GitHub Pull Requests.
 
@@ -9,13 +9,13 @@ The site is built with pure Markdown and Jekyll to keep it clean, fast, text-foc
 The site structure is intentionally flat and straightforward:
 
 ```text
-mas-birmingham.github.io/
+mas-at-birmingham.github.io/
 ├── _config.yml        # Site metadata, Jekyll theme, and header navigation
 ├── Gemfile            # Local Ruby dependencies matching GitHub Pages
 ├── index.md           # Homepage (/)
 ├── members.md         # Member profiles & research interests (/members)
-├── schedule.md        # Reading group schedule (/schedule)
-├── funding.md         # Funding and joint proposal opportunities
+├── schedule.md        # Session schedule (/schedule)
+├── funding.md         # Funding calls and joint proposals (/funding)
 └── README.md          # Repository documentation & local setup guide
 ```
 
@@ -25,22 +25,23 @@ Group members are encouraged to keep their profiles and seminar schedules up to 
 
 ### Adding Yourself to `members.md`
 
+The easiest way is to fill in the [MAS@B sign-up form](https://forms.cloud.microsoft/e/wggZN2L0xD) and we'll add you. Or do it yourself:
+
 1. Fork this repository or create a new branch.
-2. Open `members.md` and add your profile using the standard layout:
+2. Open `members.md` and add your profile under the right section (PhD Researchers, Postdocs or Faculty), in alphabetical order by surname:
 ```markdown
 ### Your Name
-* **Role:** PhD Researcher / Faculty / Postdoc
 * **Focus Areas:** Cooperative MARL, Swarm Robotics, Game Theory
 * **Contact:** `username@bham.ac.uk`
 * [Website](https://your-website.com)
 ```
-
+Faculty also add a `* **Role:**` line (e.g. Assistant Professor). If you hold another position, add `* **Also:**` (e.g. Senior Research Engineer).
 
 3. Submit a **Pull Request**.
 
-### Updating the Schedule in `topics.md`
+### Adding a Talk to `schedule.md`
 
-1. Edit the Markdown table in `topics.md` to add new dates, papers, or meeting topics.
+1. Add a row to the **Upcoming Sessions** table in `schedule.md` with the date, time, talk title, speaker and location.
 2. Submit a **Pull Request**.
 
 ## 🛠️ Running the Site Locally

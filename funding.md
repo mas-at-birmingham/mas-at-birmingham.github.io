@@ -1,17 +1,12 @@
 ---
 layout: page
-title: Joint Proposals
+title: Funding
 ---
 
-MAS@B serves as a platform for developing collaborative grant applications and identifying funding avenues tailored to multi-agent research.
+MAS@B is a place to find funding calls relevant to multi-agent research and to put together joint bids.
 
-## Open & Upcoming Funding Calls
+## Open Calls
 
-| Funder / Scheme | Focus Area | Deadline | Contact / Lead |
-| :--- | :--- | :--- | :--- |
-| **EPSRC** | AI & Autonomous Systems | Rolling | placeholder |
-| **UKRI / Horizon** | Collaborative Robotics & AI | TBD | placeholder |
+There are no open calls listed right now.
 
-> Interested in forming a joint bid or adding a funding opportunity? Bring it up at the next meeting or submit a Pull Request to this page.
-
-**Note:** This page is periodically updated and past items are automatically purged. If no items are listed below, there are currently no active announcements or upcoming events scheduled.
+> Know of a funding call, or want to form a joint bid? Bring it up at the next session or open a pull request adding it to this page.
