@@ -35,7 +35,7 @@ The easiest way is to fill in the [MAS@B sign-up form](https://forms.cloud.micro
 * **Contact:** `username@bham.ac.uk`
 * [Website](https://your-website.com)
 ```
-No titles (Dr., Prof.) or job titles are needed: the section says it. If you hold another position, add `* **Also:**` (e.g. Senior Research Engineer).
+No titles (Dr., Prof.) or job titles are needed: the section says it. If you hold another position, add `* **Also:**` (e.g. Senior Research Engineer). Organisers have `{: .organiser}` on the line under their name, which adds a small "organiser" tag.
 
 3. Submit a **Pull Request**.
 

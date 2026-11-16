@@ -32,6 +32,7 @@ Want to join? Fill in the [MAS@B sign-up form](https://forms.cloud.microsoft/e/w
 * [Google Scholar](https://scholar.google.com/citations?user=Faels4sAAAAJ&hl=en)
 
 ### Aju Ani Justus
+{: .organiser}
 * **Focus Areas:** Multi-Agent Reinforcement Learning, Human-Agent Teaming
 * **Contact:** `axa1943@student.bham.ac.uk`
 * [Website](https://www.ajuanijustus.com), [Google Scholar](https://scholar.google.com/citations?user=ktCUwwsAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/ajuanijustus/)
@@ -41,6 +42,7 @@ Want to join? Fill in the [MAS@B sign-up form](https://forms.cloud.microsoft/e/w
 * **Contact:** `zxs513@student.bham.ac.uk`
 
 ### Freya Wentzel
+{: .organiser}
 * **Focus Areas:** BDI Agents, JaCaMo Framework
 * **Contact:** `fxw420@student.bham.ac.uk`
 
@@ -51,6 +53,7 @@ Want to join? Fill in the [MAS@B sign-up form](https://forms.cloud.microsoft/e/w
 ## Faculty
 
 ### Chris Baber
+{: .organiser}
 * **Focus Areas:** Human-Machine Teaming, Human Factors, Wearable Computing, Speech Technology
 * **Contact:** `c.baber@bham.ac.uk`
 * [Google Scholar](https://scholar.google.co.uk/citations?user=MQ184fQAAAAJ&hl=en)
