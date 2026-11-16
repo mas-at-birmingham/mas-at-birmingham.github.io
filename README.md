@@ -28,7 +28,7 @@ Group members are encouraged to keep their profiles and seminar schedules up to 
 The easiest way is to fill in the [MAS@B sign-up form](https://forms.cloud.microsoft/e/wggZN2L0xD) and we'll add you. Or do it yourself:
 
 1. Fork this repository or create a new branch.
-2. Open `members.md` and add your profile under the right section (PhD Researchers, Postdocs or Faculty), in alphabetical order by surname:
+2. Open `members.md` and add your profile under the right section (PhD Researchers, Postdocs or Faculty), in alphabetical order by first name (the name as written):
 ```markdown
 ### Your Name
 * **Focus Areas:** Cooperative MARL, Swarm Robotics, Game Theory
