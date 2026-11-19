@@ -19,10 +19,13 @@ Multi-Agent Systems (MAS) is fundamentally cross-cutting. We bring together rese
 * **Agentic AI & LLM Frameworks:** Multi-agent LLM systems, autonomous workflows, tool-use orchestration.
 
 ## What We Do
-* **Informal Knowledge Exchange:** Discussions to share work-in-progress, test early-stage ideas, and troubleshoot research roadblocks in a relaxed environment.
-* **Student & Researcher Tutorials:** Hands-on deep dives led by PhD students and postdocs to cross-develop technical skills across labs.
-* **Cross-Group Funding & Proposals:** Identifying grant opportunities and assembling joint research bids.
-* **Workshops & Event Signposting:** Organizing internal one-day workshops and cross-promoting MAS-related seminars across campus.
+We aim for a mix of sessions that are interesting and sessions that are genuinely useful. See the [tentative plan](/schedule#looking-ahead-tentative).
+
+* **Talks & Discussions:** Research talks, invited speakers, panels and reading groups across the many kinds of multi-agent work.
+* **Research Support & Feedback:** Pitch ideas, get feedback, and talk through what to do when a project needs to pivot.
+* **Upskilling:** Tutorials, plus practical sessions on grant writing, joint proposals, rebuttals and workshop papers.
+* **Collaboration & Funding:** Finding collaborators and funding calls, and putting together joint bids.
+* **Workshops & Event Signposting:** Internal workshops, and cross-promoting MAS-related seminars across campus.
 
 ## 📌 Quick Links
 * 👤 [Meet our Members](/members)
