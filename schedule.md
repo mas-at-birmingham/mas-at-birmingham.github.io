@@ -11,6 +11,12 @@ Sessions are open to everyone. No multi-agent background needed. Join in person 
 | :--- | :--- | :--- | :--- | :--- |
 | **Thu 19 Nov 2026** | 11:00 GMT | Multi-Agent Systems in the Web of Things: Belief–Desire–Intention (BDI) frameworks in building automations | Freya Wentzel | LG23 / Teams |
 | **Thu 19 Nov 2026** | 11:00 GMT | Simulating Submarine Crews as a Multi-Agent System in a Tactical Picture Compilation Task (LLM agents) | Prasad Kachare | LG23 / Teams |
+| **Thu 3 Dec 2026** | 11:00 GMT | Panel discussion _(tentative)_ | TBC | TBC |
+| **Thu 28 Jan 2027** | 11:00 GMT | Workshop _(tentative)_ | TBC | TBC |
+| **Thu 11 Feb 2027** | 11:00 GMT | Internal talks _(tentative)_ | TBC | TBC |
+| **Thu 25 Feb 2027** | 11:00 GMT | Grants & incubation _(tentative)_ | TBC | TBC |
+| **Thu 11 Mar 2027** | 11:00 GMT | Invited speakers _(tentative)_ | TBC | TBC |
+| **Thu 25 Mar 2027** | 11:00 GMT | Tutorial _(tentative)_ | TBC | TBC |
 
 Want to give a talk? Tick the box on the [sign-up form](https://forms.cloud.microsoft/e/wggZN2L0xD) or email `axa1943@student.bham.ac.uk`.
 
@@ -20,7 +26,6 @@ We're planning to meet roughly every other Thursday during term, with no session
 
 | When | Session | What we have in mind |
 | :--- | :--- | :--- |
-| **19 Nov** | Kick-off: internal talks | Two PhD talks, plus a chat about what comes next |
 | **3 Dec** | Panel discussion | A few senior researchers from across the School discuss a hot topic |
 | **28 Jan** | Workshop | To be confirmed |
 | **11 Feb** | Internal talks | Current research from PhD students in the School |
