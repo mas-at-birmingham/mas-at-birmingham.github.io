@@ -19,7 +19,7 @@ Multi-Agent Systems (MAS) is fundamentally cross-cutting. We bring together rese
 * **Agentic AI & LLM Frameworks:** Multi-agent LLM systems, autonomous workflows, tool-use orchestration.
 
 ## What We Do
-We aim for a mix of sessions that are interesting and sessions that are genuinely useful. See the [tentative plan](/schedule#looking-ahead-tentative).
+We aim for a mix of sessions that are interesting and sessions that are genuinely useful. See the [tentative plan](/schedule).
 
 * **Talks & Discussions:** Research talks, invited speakers, panels and reading groups across the many kinds of multi-agent work.
 * **Research Support & Feedback:** Pitch ideas, get feedback, and talk through what to do when a project needs to pivot.
